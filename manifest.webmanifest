@@ -1,0 +1,9 @@
+{
+  "name": "Identifica Veicular",
+  "short_name": "Identifica",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#14263d",
+  "description": "Catálogo público de referência veicular."
+}
